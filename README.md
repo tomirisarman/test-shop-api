@@ -1,5 +1,6 @@
 <h3>Команды</h3>
 php artisan migrate
+<br>
 php artisan db:seed
 
 <h3>API документация</h3>
